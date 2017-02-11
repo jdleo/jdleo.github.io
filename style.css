@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700');
+
+    h1 {
+    		font-family: 'Roboto', sans-serif;
+    		font-weight: 300;
+    		text-align: center;
+    		font-size: 45px;
+    }
+
+    .socialBlock {
+    	width: 250px;
+    	height: 60px;
+    	/*background-color: black;*/
+
+    	position: relative;
+    	margin: 0 auto;
+
+    }
+
+    .socialInner {
+    	width:230px;
+    	height:40px;
+    	/*background-color: red;*/
+
+    	position: absolute;
+
+    	top:50%;
+    	transform: translateY(-50%);
+    }
+
+    .socialInner img {
+    	width:35px;
+    	height:35px;
+
+    	position: absolute;
+
+    	top:50%;
+    	transform: translateY(-50%);
+    	margin-left: 5px;
+    }
+
+    .socialInner a {
+    	margin-left: 60px;
+    	text-decoration: none;
+
+    	position: absolute;
+    	margin-top: 10px;
+
+
+    	font-family: 'Roboto', sans-serif;
+    	font-weight: 300;
+    	font-size: 20px;
+
+    }
