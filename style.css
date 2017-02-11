@@ -36,12 +36,13 @@
 
     	top:50%;
     	transform: translateY(-50%);
-    	margin-left: 5px;
+    	margin-left: 50px;
     }
 
     .socialInner a {
-    	margin-left: 60px;
+    	margin-left: 110px;
     	text-decoration: none;
+    	color: #64b5f6;
 
     	position: absolute;
     	margin-top: 10px;
