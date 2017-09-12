@@ -9,7 +9,7 @@ var gradients = [
   { start: [116,0,217], stop: [162,0,217] }
 ];
 // how long for each transition
-var transition_time = 1;
+var transition_time = 0.5;
 // how many frames per second
 var fps = 120;
 
