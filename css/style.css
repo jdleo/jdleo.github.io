@@ -225,7 +225,7 @@ h2 {
   width: 170px;
   height: 200px;
   border-radius: 200px;
-  box-shadow: 0 5px 10px #EF5350; }
+  box-shadow: 0 2px 2px #333333; }
 .info__tag {
   display: block;
   margin: 30px auto auto auto;
