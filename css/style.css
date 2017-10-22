@@ -225,7 +225,7 @@ h2 {
   width: 170px;
   height: 200px;
   border-radius: 200px;
-  box-shadow: 0 5px 10px #333333; }
+  box-shadow: 0 5px 10px #eeeeee; }
 .info__tag {
   display: block;
   margin: 30px auto auto auto;
@@ -281,7 +281,7 @@ h2 {
     font-size: 12px; }
   .info__button:hover, .info__button--dark:hover {
     color: white;
-    background-color: #1560FB; }
+    background-color: #F44336; }
   @media (min-width: 768px) {
     .info__button, .info__button--dark {
       margin: 40px auto auto auto; } }
